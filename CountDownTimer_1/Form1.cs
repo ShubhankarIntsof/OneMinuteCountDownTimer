@@ -69,7 +69,7 @@ namespace CountDownTimer_1
                 if(cdtmr < 11)
                 {
                     speechSynthesizerObj = new SpeechSynthesizer();
-                    speechSynthesizerObj.SpeakAsync((cdtmr).ToString() + "Seconds");
+                    speechSynthesizerObj.SpeakAsync(cdtmr.ToString() + "Seconds");
 
                 }
 
