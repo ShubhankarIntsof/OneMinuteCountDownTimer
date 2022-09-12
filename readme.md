@@ -1,4 +1,4 @@
-# OneMinuteCountDownTimer By Shubhankar
+# OneMinuteCountDownTimer
 
 Instructions
 
